@@ -1,3 +1,3 @@
-# Overwatch 캐릭터 설정 화면
+# Overwatch 캐릭터설정화면 예제
 
 ☞ https://eunnjin.github.io/Overwatch/
